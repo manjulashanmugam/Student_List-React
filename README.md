@@ -23,12 +23,3 @@ This project demonstrates basic React concepts like state management, components
 ```bash
 git clone https://github.com/manjulashanmugam/Student_List-React.git
 
-Student_List-React/
-├── public/
-├── src/
-│   ├── components/     # React components
-│   ├── App.js          # Main app component
-│   ├── index.js        # Entry point
-│   └── App.css         # Styling
-├── package.json
-└── README.md
